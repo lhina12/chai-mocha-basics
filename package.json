@@ -1,0 +1,27 @@
+{
+  "name": "1",
+  "version": "1.0.0",
+  "description": "A Basic Chai Mocha setup.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lhina12/chai-mocha-basics.git"
+  },
+  "keywords": [
+    "mocha",
+    "chai"
+  ],
+  "author": "Cielina Guerrero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lhina12/chai-mocha-basics/issues"
+  },
+  "homepage": "https://github.com/lhina12/chai-mocha-basics#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
